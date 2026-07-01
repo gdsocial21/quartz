@@ -10,13 +10,19 @@
     <link>https://gdsocial21.pages.dev/tags/</link>
     <guid>https://gdsocial21.pages.dev/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 01 Jul 2026 05:12:23 GMT</pubDate>
+    <pubDate>Wed, 01 Jul 2026 05:58:09 GMT</pubDate>
   </item><item>
     <title>이주현의 위키</title>
     <link>https://gdsocial21.pages.dev/</link>
     <guid>https://gdsocial21.pages.dev/</guid>
     <description><![CDATA[ 이주현 — AI 활동가 1기 양양 신활력법인 AI 활동가 1기 프로젝트 위키입니다. ]]></description>
     <pubDate>Wed, 01 Jul 2026 04:38:33 GMT</pubDate>
+  </item><item>
+    <title>핸드오버 — 2026-07-01</title>
+    <link>https://gdsocial21.pages.dev/handover-2026-07-01</link>
+    <guid>https://gdsocial21.pages.dev/handover-2026-07-01</guid>
+    <description><![CDATA[ 핸드오버 — 2026-07-01 오늘 완성한 것 단계내용결과M2GitHub 레포 생성 + 첫 커밋 + push✅ github.com/gdsocial21/sakyowon-aiM3Quartz v5 위키 → Cloudflare Pages 배포✅ quartz-bck.pages.devM4Supabase notes 테이블 + RLS + curl GET✅ REST JSON 응답 확인M5한 페이지 사이트 → GitHub Pages 배포✅ gdsocial21.github.io/sakyowon-ai 현재 상태 C:\Users\PC\sakyowon-a... ]]></description>
+    <pubDate>Tue, 30 Jun 2026 15:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
